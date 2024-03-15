@@ -1,0 +1,1 @@
+select distinct teamID from ManagersHalf where teamID like 'B%';

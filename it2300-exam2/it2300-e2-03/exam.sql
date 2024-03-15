@@ -1,0 +1,1 @@
+select teamID, divID from TeamsHalf where divID = 'W' order by Rank;
